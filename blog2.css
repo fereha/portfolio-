@@ -1,0 +1,65 @@
+h1{
+    padding-left: 110px;
+    margin: 70px auto 40px 70px ;
+    font-size: 55px;
+  }
+  .navbar{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: flex-end;
+  }
+  .navbar a{
+    color:black;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-size: 24px;
+  }
+  .navbar a:hover{
+    background-color:rgb(255, 251, 251);
+  
+  }
+  .navbar a.color{
+    color: red;
+  }
+  
+  .parag{
+    margin-left: 200px;
+  }
+  .parag2{
+    margin-left:200px ;
+  }
+  h2{
+    margin-left:200px ;
+  }
+  .gray-style {
+    font-family: monospace; 
+    color: gray; 
+    font-size: 18px; 
+   
+    padding: 5px; 
+   
+  }
+  hr{
+    border: none;
+    height: 2px;
+    background-color: #333;
+    padding-left: 50px ;
+    margin-right: 70px;
+    width: 80%;
+    opacity: 0.5px;
+  }
+  .icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  footer {
+    text-align: center;
+    margin: 40px ;
+  }
+  
+  
